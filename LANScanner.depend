@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1639427835 source:/home/quilt/Homework/LANScanner/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<unistd.h>
+	<netinet/in.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<netinet/ip.h>
+	<netinet/ip_icmp.h>
+	<netdb.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	"Define.h"
+	"IPRange.h"
+	"NetUtil.h"
+
+1639423723 /home/quilt/Homework/LANScanner/Define.h
+
+1639423744 /home/quilt/Homework/LANScanner/IPRange.h
+
+1639425237 /home/quilt/Homework/LANScanner/NetUtil.h
+
